@@ -1,7 +1,6 @@
 # Hi there 👋
 
-# Projects
-Find below links to a selection of public projects
+🔭 Find below links to a selection of public projects 🔭
 
 ### j3colorstretch
 [http://joxda.github.io/j3colorstretch](http://joxda.github.io/j3colorstretch) -  Code to stretch astronomical images and make the cosmos visible
