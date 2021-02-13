@@ -8,6 +8,9 @@
 ### j3AstroIO
 [https://github.com/joxda/j3AstroIO](https://github.com/joxda/j3AstroIO) - library for the IO of commonly used astrophotography file formats and interfacing them to OpenCV
 
+### j3AstroImProc
+[https://github.com/joxda/j3AstroImProc](https://github.com/joxda/j3AstroImProc) - advanced image processing for astrophotography with OpenCV
+
 ### maskeditor
 [https://github.com/joxda/maskeditor](https://github.com/joxda/maskeditor) - python scripts for my students that allow interactive ellipse fitting to isophotes and mask editing in SAO ds9 via its API
 
