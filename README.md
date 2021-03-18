@@ -11,6 +11,9 @@
 ### j3AstroImProc
 [https://github.com/joxda/j3AstroImProc](https://github.com/joxda/j3AstroImProc) - advanced image processing for astrophotography with OpenCV
 
+### libsunwait
+[https://github.com/joxda/libsunwait](https://github.com/joxda/libsunwait) - C++ library to calculate sunrise and set times, twilight times, day lengths etc, and to poll day/night or wait for the next sunrise/set/twilight time
+
 ### maskeditor
 [https://github.com/joxda/maskeditor](https://github.com/joxda/maskeditor) - python scripts for my students that allow interactive ellipse fitting to isophotes and mask editing in SAO ds9 via its API
 
