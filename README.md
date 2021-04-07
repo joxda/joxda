@@ -8,9 +8,6 @@
 ### j3AstroIO
 [https://github.com/joxda/j3AstroIO](https://github.com/joxda/j3AstroIO) - library for the IO of commonly used astrophotography file formats and interfacing them to OpenCV
 
-### j3AstroImProc
-[https://github.com/joxda/j3AstroImProc](https://github.com/joxda/j3AstroImProc) - advanced image processing for astrophotography with OpenCV
-
 ### libsunwait
 [https://github.com/joxda/libsunwait](https://github.com/joxda/libsunwait) - C++ library to calculate sunrise and set times, twilight times, day lengths etc, and to poll day/night or wait for the next sunrise/set/twilight time
 
